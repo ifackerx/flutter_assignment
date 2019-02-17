@@ -1,0 +1,4 @@
+#Sun Feb 17 19:56:00 ICT 2019
+base.0=/Users/ifackerx/Downloads/lab01-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
