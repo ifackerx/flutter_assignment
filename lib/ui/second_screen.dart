@@ -32,8 +32,7 @@ class SecondScreenState extends State<SecondScreen> {
           children: <Widget>[
             TextFormField(
               decoration: InputDecoration(
-                labelText: "Email",
-                hintText: "Please input your email",
+                hintText: "Email",
                 icon: Icon(Icons.email),
                 fillColor: Colors.blue
                 
@@ -47,8 +46,7 @@ class SecondScreenState extends State<SecondScreen> {
             ),
             TextFormField(
               decoration: InputDecoration(
-                labelText: "Password",
-                hintText: "Please input your password",
+                hintText: "Password",
                 icon: Icon(Icons.lock),
               ),
               obscureText: true,
@@ -59,8 +57,7 @@ class SecondScreenState extends State<SecondScreen> {
               TextFormField(
               
               decoration: InputDecoration(
-                labelText: "Confirm Password",
-                hintText: "Please input your password",
+                hintText: "Confirm",
                 icon: Icon(Icons.lock),
               ),
               obscureText: true,
